@@ -1,0 +1,19 @@
+{
+  "name": "sql-server-client",
+  "version": "0.0.0",
+  "homepage": "https://github.com/TommyAllsup/sql-server-client",
+  "authors": [
+    "Tommy Allsup <tommy.allsup@gmail.com>"
+  ],
+  "description": "",
+  "main": "lib/index.js",
+  "keywords": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
